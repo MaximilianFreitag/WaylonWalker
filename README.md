@@ -120,7 +120,7 @@ Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investo
 	</a>
 </div>
 
-## Stargazers
+## Stargazers ⭐
 
 [![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/waylonwalker/waylonwalker)](https://github.com/waylonwalker/waylonwalker/stargazers)
 
